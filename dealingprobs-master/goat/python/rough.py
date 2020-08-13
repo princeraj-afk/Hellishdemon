@@ -1,13 +1,22 @@
-def binarySearch(arr,low,high,x):
-    mid = (high+low)//2
-    if x>arr[low] and x<arr[high] and high-low==1:
-        return low+1
-    elif arr[mid]<x:
-        return binarySearch(arr,mid+1,high,x)
-    else:
-        return binarySearch(arr,low,mid-1,x)
-
-
-arr = [ 2, 3, 4, 10, 40 ]
-x = 10
-print(binarySearch(arr,0,4,50))
+m,n,a,b = list(int(x) for x in input().split())
+print(a,b)
+print(a,1)
+for i in range(1,m+1,2):
+    for j in range(1,n+1):
+        if (i,j)!=(a,b) and (i,j)!=(a,1):
+            print(i,j)
+        else:
+            pass
+    i+=1
+    for j in range(n,0,-1):
+        if (i,j)!=(a,b) and (i,j)!=(a,1):
+            print(i,j)
+        else:
+            pass
+for _ in range(m%2):
+    for j in range(1,n+1):
+        i = m
+        if (i, j) != (a, b) and (i, j) != (a, 1):
+            print(i, j)
+        else:
+            pass
