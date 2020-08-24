@@ -1,12 +1,11 @@
-class Treenode:
-    def __init__(self,data):
-        self.data = data
-        self.children = []
-        self.parent =None
-
-    def addchild(self,child):
-        child.parent = self
-        self.children.append(child)
-
-
-if __name__ == '__main__':
+for _ in range(int(input())):
+    (a,b,c) = list(int(x) for x in input().split())
+    (p,q,r) = list(int(x) for x in input().split())
+    k = min(c,p)
+    c -= k
+    p -= k
+    ans =k*2
+    if c+a>=r:
+        print(ans)
+    else:
+        print(ans-min(r-(a+c),b)*2)
