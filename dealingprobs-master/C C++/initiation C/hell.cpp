@@ -1,6 +1,7 @@
  #include<iostream>
- int main()
+ #include<conio.h>
+ void main()
  {
- 	std::cout<<"Hello world";
+ 	cout<<"Hello world45";
  	return 0;
  }

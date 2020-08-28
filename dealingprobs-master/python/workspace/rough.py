@@ -1,11 +1,5 @@
-for _ in range(int(input())):
-    (a,b,c) = list(int(x) for x in input().split())
-    (p,q,r) = list(int(x) for x in input().split())
-    k = min(c,p)
-    c -= k
-    p -= k
-    ans =k*2
-    if c+a>=r:
-        print(ans)
-    else:
-        print(ans-min(r-(a+c),b)*2)
+from time import sleep
+from tqdm import tqdm
+with tqdm(total=100000000000) as pbar:
+    for i in range(1000000):
+        pbar.update(100000)
