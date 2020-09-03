@@ -3,9 +3,22 @@ scope resolution operator- ::
 Typecasting
 34- int(34),float(34) ot (float)34
 
-constant
 const int a = 34;
 
 setw is width assigner
 suchas 004 -- __4
 
+array
+int marks[] ={23,45,56,89};
+or
+int marks[1];
+marks[0]=23;
+
+by printing array we get the address of the same;
+
+//struct
+shortcut for struct employee is ep now:-
+typedef struct employee
+{
+    /* data */
+} ep;
