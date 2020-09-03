@@ -5,7 +5,7 @@ Typecasting
 
 const int a = 34;
 
-setw is width assigner
+setw is width assigner(zfill)
 suchas 004 -- __4
 
 array
@@ -33,3 +33,8 @@ void swappointer(int *a,int *b)  {
     *a = *b;
     *b = *a;
 }
+
+simply if u dont wanna copyy and have two variable point at same location:
+a = 8
+&b =a
+
