@@ -22,3 +22,14 @@ typedef struct employee
 {
     /* data */
 } ep;
+
+function prototype
+int sum(int,int)
+telling the prog to wait for function
+
+simply swapping wont swap we have to swap by pointer
+void swappointer(int *a,int *b)  {
+    int temp = *a;
+    *a = *b;
+    *b = *a;
+}
