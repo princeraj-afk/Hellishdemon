@@ -38,3 +38,9 @@ simply if u dont wanna copyy and have two variable point at same location:
 a = 8
 &b =a
 
+use inline before functions:
+not when recursion and static variable
+
+
+static c = 0--- for one use only;
+
