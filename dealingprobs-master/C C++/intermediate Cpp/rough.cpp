@@ -16,15 +16,16 @@ int main()
     // }
     // else{
     //     cout<<"you are welcomed to the party";
-    // } 
+    // }  
 
     switch (age)
     {
     case 18:
-        /* code */
+        cout<<"you are 18";
         break;
     
     default:
+    cout<<"you are not 18";
         break;
     }
     return 0;
