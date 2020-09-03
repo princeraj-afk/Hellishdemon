@@ -1,0 +1,11 @@
+scope resolution operator- ::
+
+Typecasting
+34- int(34),float(34) ot (float)34
+
+constant
+const int a = 34;
+
+setw is width assigner
+suchas 004 -- __4
+
