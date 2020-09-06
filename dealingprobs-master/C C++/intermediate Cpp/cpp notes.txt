@@ -44,3 +44,5 @@ not when recursion and static variable
 
 static c = 0--- for one use only;
 
+friend declaring in class:
+friend Complex sumcomplex(Complex o1, Complex o2)
