@@ -99,4 +99,3 @@ def listtoset(a):
         else:
             b.append(i)
     return b
-
