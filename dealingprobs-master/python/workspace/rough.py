@@ -1,12 +1,15 @@
-from functools import reduce
-def factors(n):
-    return set(reduce(list.__add__,
-                ([i, n//i] for i in range(1, int(n**0.5) + 1) if n % i == 0)))
+from itertools import permutations
+
+def fingerprint(arr):
+    g = []
+    for i in range(len(arr)-1):
+        g.append(arr[i]+arr[i+1])
+    return g
+
 for _ in range(int(input())):
-    n,x,y = [int(x) for x in input().split()]
-    p = factors(y-x)
-    q = []
-    for i in p:
-        if i<=(y-x)//(n-1):
-            q.append(i)
-    print(q)
+    a = int(input())
+    b= [int(x) for x in input().split()]
+    for i in permutations(b,a):
+        if fingerprint(i)==fingerprint(b) and i!=b:
+            print(*i)
+            break

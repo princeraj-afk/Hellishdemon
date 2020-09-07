@@ -1,20 +1,32 @@
-#include<iostream>
-#include<conio.h>
-#include<iomanip>
+#include <iostream>
+#include <conio.h>
+#include <iomanip>
 using namespace std;
 
-class Simple{
-    int data1;
-    int data2;
-    public:
-        Simple(int a,int b=9){
-            data1 = a;
-            data2 = b;
-        }
-        void printData
+class Employee
+{
+    int id;
+
+public:
+    float salary;
+    Employee(int uid)
+    {
+        id = uid;
+        salary = 25000.0;
+    }
+};
+
+class Programmer : Employee
+{
+public:
+    int Language = 9;
+
 }
 
-int main(){
-    
+int
+main()
+{
+    Employee prince(1);
+    cout << prince.salary;
     return 0;
-} 
+}

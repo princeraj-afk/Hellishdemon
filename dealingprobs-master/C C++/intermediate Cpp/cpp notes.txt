@@ -34,7 +34,7 @@ void swappointer(int *a,int *b)  {
     *b = *a;
 }
 
-simply if u dont wanna copyy and have two variable point at same location:
+simply if u dont wanna copy and have two variable point at same location:
 a = 8
 &b =a
 
@@ -46,3 +46,17 @@ static c = 0--- for one use only;
 
 friend declaring in class:
 friend Complex sumcomplex(Complex o1, Complex o2)
+
+
+// Derived Class syntax
+/*
+class {{derived-class-name}} : {{visibility-mode}} {{base-class-name}}
+{
+    class members/methods/etc...
+}
+Note:
+1. Default visibility mode is private
+2. Public Visibility Mode: Public members of the base class becomes Public members of the derived class
+3. Private Visibility Mode: Public members of the base class becomes Private members of the derived class
+4. Private members are never inherited
+*/
