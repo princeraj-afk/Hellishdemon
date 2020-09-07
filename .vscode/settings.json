@@ -2,5 +2,9 @@
     "C_Cpp.errorSquiggles": "Disabled",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.linting.pylamaEnabled": false
+    "python.linting.pylamaEnabled": false,
+    "files.associations": {
+        "random": "cpp",
+        "ostream": "cpp"
+    }
 }
