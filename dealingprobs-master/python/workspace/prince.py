@@ -1,5 +1,5 @@
-from itertools import permutations
-import random
-a = [9,4,45,534]
-for i in permutations(a,4):
-    print(i)
+def gcd(a, b):
+    if min(a,b) == 0:
+        return max(a, b)
+    return gcd(b, a%b)
+print(gcd(5,0))

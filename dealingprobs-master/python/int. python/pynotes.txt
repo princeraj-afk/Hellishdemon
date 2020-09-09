@@ -1,0 +1,13 @@
+generator = (i for i in range(200))
+list_comprehension = [i for i in range(200)]
+generator is way too faster coz it doesnt save that
+
+[print(i) for i in xyz]
+print([*xyz])
+
+timeit module
+put all the codes in timeit.timeit("""here""",number = no of times)
+
+in list comprehensionu canu se the some variable and it will not be stored
+but in regular for loop it is stored and overwrite the orignal value
+
