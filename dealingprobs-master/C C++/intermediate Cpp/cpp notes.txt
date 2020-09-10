@@ -60,3 +60,5 @@ Note:
 3. Private Visibility Mode: Public members of the base class becomes Private members of the derived class
 4. Private members are never inherited
 */
+
+classname *ptr = new classname
