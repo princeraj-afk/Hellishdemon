@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ands/Algorithms2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ands/algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ands/algorithms1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ands/ands" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ands/python-algorithms" vcs="Git" />
   </component>
 </project>

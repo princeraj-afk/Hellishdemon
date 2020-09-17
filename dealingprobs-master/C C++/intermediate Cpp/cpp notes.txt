@@ -62,3 +62,6 @@ Note:
 */
 
 classname *ptr = new classname
+
+function overloading:
+functions with same name and different arguments and different works

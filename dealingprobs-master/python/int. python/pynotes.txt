@@ -8,6 +8,29 @@ print([*xyz])
 timeit module
 put all the codes in timeit.timeit("""here""",number = no of times)
 
-in list comprehensionu canu se the some variable and it will not be stored
+in list comprehension u can use the some variable and it will not be stored
 but in regular for loop it is stored and overwrite the orignal value
 
+next(x)//x.__next__() for skipping iteration in a iterator
+
+logging.debug("code")
+logging.info("code")
+logging.warning("code")
+logging.error("code")
+logging.critical("code")
+
+its better
+logging.basicConfig(filename = "",level = logging.warning)
+
+import json
+k = json.dumps(dictionary) => convert into json string
+p = json.loads(k) => convert back into dict
+
+from multiprocessing import Pool
+p = Pool()
+result = p.map(function,array)
+p.close()
+p.join()
+
+to get size of anything
+sys.getsizeof()
