@@ -1,43 +1,25 @@
-#!/bin/python3
-
-import math
-import os
-import random
-import re
-import sys
-
-class SinglyLinkedListNode:
-    def __init__(self, node_data):
-        self.data = node_data
-        self.next = None
-
-class SinglyLinkedList:
+import numpy as np
+class HashTable:
     def __init__(self):
-        self.head = None
-        self.tail = None
+        self.max = 100
+        self.arr  = [[] for _ in range(self.max)]
+    def get_hash(self,key):
+        h = 0
+        return sum(ord(char) for char in key)
 
-    def insert_node(self, node_data):
-        node = SinglyLinkedListNode(node_data)
+    def __setitem__(self, key, value):
+        h = self.get_hash(key)
+        for index, element in enumerate(self.arr[h]):
+            self.arr[h].append((key,value))
 
-        if not self.head:
-            self.head = node
-        else:
-            self.tail.next = node
-        self.tail = node
+    def __getitem__(self, item):
+        h = self.get_hash(item)
+        return self.arr[h]
 
-def printLinkedList(p):
-    itr = p
-    while itr:
-        print(itr.data)
-        itr = itr.next
+    def __delitem__(self, key):
+        h = self.get_hash(key)
+        self.arr[h] = None
+
 
 if __name__ == '__main__':
-    llist_count = int(input())
-
-    llist = SinglyLinkedList()
-
-    for _ in range(llist_count):
-        llist_item = int(input())
-        llist.insert_node(llist_item)
-
-    printLinkedList(llist.head)
+    t = HashTable()

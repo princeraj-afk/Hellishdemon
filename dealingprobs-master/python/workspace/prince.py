@@ -1,98 +1,93 @@
-class Node:
-    def __init__(self, data=None, next=None):
-        self.data = data
-        self.next = next
+#!/bin/python3
 
-class LinkedList:
+import math
+import os
+import random
+import re
+import sys
+
+
+class SinglyLinkedListNode:
+    def __init__(self, node_data):
+        self.data = node_data
+        self.next = None
+
+
+class SinglyLinkedList:
     def __init__(self):
         self.head = None
+        self.tail = None
 
-    def print(self):
-        if self.head is None:
-            print("Linked list is empty")
-            return
-        itr = self.head
-        llstr = '['
-        while itr:
-            llstr += str(itr.data) + ', '
-            itr = itr.next
-        print(llstr[:-2] +"]")
+    def insert_node(self, node_data):
+        node = SinglyLinkedListNode(node_data)
 
-    def get_length(self):
-        count = 0
-        itr = self.head
-        while itr:
-            count+=1
-            itr = itr.next
-        return count
+        if not self.head:
+            self.head = node
+        else:
+            self.tail.next = node
 
-    def insert_at_begining(self, data):
-        node = Node(data, self.head)
-        self.head = node
+        self.tail = node
 
-    def insert_at_end(self, data):
-        if self.head is None:
-            self.head = Node(data, None)
-            return
 
-        itr = self.head
+def print_singly_linked_list(node, sep, fptr):
+    while node:
+        fptr.write(str(node.data))
 
-        while itr.next:
-            itr = itr.next
+        node = node.next
 
-        itr.next = Node(data, None)
+        if node:
+            fptr.write(sep)
 
-    def insert_at(self, index, data):
-        if index<0 or index>self.get_length():
-            raise Exception("Invalid Index")
 
-        if index==0:
-            self.insert_at_begining(data)
-            return
+def findMergeNode(head1, head2):
+    p1 = []
+    p2 = []
+    while head1:
+        p1.append(head1)
+        head1 = head1.next
+    while head2:
+        p2.append(head2)
+        head2 = head2.next
 
-        count = 0
-        itr = self.head
-        while itr:
-            if count == index - 1:
-                node = Node(data, itr.next)
-                itr.next = node
-                break
-
-            itr = itr.next
-            count += 1
-
-    def remove_at(self, index):
-        if index<0 or index>=self.get_length():
-            raise Exception("Invalid Index")
-
-        if index==0:
-            self.head = self.head.next
-            return
-
-        count = 0
-        itr = self.head
-        while itr:
-            if count == index - 1:
-                itr.next = itr.next.next
-                break
-
-            itr = itr.next
-            count+=1
-
-    def insert_values(self, data_list):
-        self.head = None
-        for data in data_list:
-            self.insert_at_end(data)
+    p3 = set(p1).intersection(set(p2))
+    return [i.data for i in p3]rierr
 
 
 if __name__ == '__main__':
-    ll = LinkedList()
-    ll.insert_values(["banana","mango","grapes","orange"])
-    ll.insert_at(1,"blueberry")
-    ll.remove_at(2)
-    ll.print()
+    tests = int(input())
 
-    ll.insert_values([45,7,12,567,99])
-    ll.insert_at_end(67)
-    ll.print()
+    for tests_itr in range(tests):
+        index = int(input())
 
+        llist1_count = int(input())
+
+        llist1 = SinglyLinkedList()
+
+        for _ in range(llist1_count):
+            llist1_item = int(input())
+            llist1.insert_node(llist1_item)
+
+        llist2_count = int(input())
+
+        llist2 = SinglyLinkedList()
+
+        for _ in range(llist2_count):
+            llist2_item = int(input())
+            llist2.insert_node(llist2_item)
+
+        ptr1 = llist1.head;
+        ptr2 = llist2.head;
+
+        for i in range(llist1_count):
+            if i < index:
+                ptr1 = ptr1.next
+
+        for i in range(llist2_count):
+            if i != llist2_count - 1:
+                ptr2 = ptr2.next
+
+        ptr2.next = ptr1
+
+        result = findMergeNode(llist1.head, llist2.head)
+
+        print(str(result) + '\n')
