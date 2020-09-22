@@ -12,11 +12,11 @@ class LinkedList:
             print("Linked list is empty")
             return
         itr = self.head
-        llstr = '['
+        llstr = ''
         while itr:
-            llstr += str(itr.data) + ', '
+            llstr += str(itr.data)+' --> ' if itr.next else str(itr.data)
             itr = itr.next
-        print(llstr[:-2+"]")
+        print(llstr)
 
     def get_length(self):
         count = 0
@@ -24,6 +24,7 @@ class LinkedList:
         while itr:
             count+=1
             itr = itr.next
+
         return count
 
     def insert_at_begining(self, data):
