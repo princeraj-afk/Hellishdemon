@@ -36,3 +36,4 @@ to get size of anything
 sys.getsizeof()
 
 line.rstrip("\n") -- strip the line
+
