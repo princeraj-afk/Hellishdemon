@@ -37,3 +37,9 @@ sys.getsizeof()
 
 line.rstrip("\n") -- strip the line
 
+print numpy.roots([1, 0, -1])           #Output : [-1.  1.]
+print numpy.polyint([1, 1, 1])          #Output : [ 0.33333333  0.5         1.          0.        ]
+print numpy.polyder([1, 1, 1, 1])       #Output : [3 2 1]
+print numpy.polyval([1, -2, 0, 2], 4)   #Output : 34
+print numpy.polyfit([0,1,-1, 2, -2], [0,1,1, 4, 4], 2)
+The functions polyadd, polysub, polymul, and polydiv also handle proper addition, subtraction, multiplication, and division of polynomial coefficients, respectively.

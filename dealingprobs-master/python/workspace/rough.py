@@ -1,29 +1,49 @@
-def median(arr):
-    p = len(arr)
-    if p % 2 == 1:
-        return arr[p // 2]
-    else:
-        return (arr[p // 2] + arr[p // 2 - 1]) // 2
-
-
-a = int(input())
-b = [int(x) for x in input().split()]
-c = [int(x) for x in input().split()]
-d = []
-for i in range(a):
-    p = [b[i] for i in range(c[i])]
-    d += p
-    d = []
-
-d.sort()
-
-if a % 2 == 0:
-    first_q = median(b[:a // 2])
-    second_q = median(b)
-    third_q = median(b[a // 2:])
-else:
-    first_q = median(b[:a // 2])
-    second_q = median(b)
-    third_q = median(b[a // 2 + 1:])
-
-print(third_q - first_q)
+a=int(input())
+for k in range(0,a):
+    b=list(map(int,input().split()))
+    c=list(map(int,input().split()))
+    v=1
+    u=1
+    h=0
+    i=0
+    dv=0
+    du=b[1]
+    while(len(c)!=0):
+        if((c[i]-dv)/v<=(du-c[len(c)-1])/u):
+            e=(c[i]-dv)/v
+            h=h+(e)
+            dv=c[i]
+            v=v+1
+            c.remove(c[i])
+            if(len(c)!=0):
+                if(e*u>=(du-c[len(c)-1])):
+                    f=(du-c[len(c)-1])/u
+                    du=c[len(c)-1]
+                    c.remove(c[len(c)-1])
+                    u=u+1
+                    if(e>f):
+                        du=du-(e-f)*u
+                else:
+                    du=du-u*e
+            else:
+                du=du-u*e
+        else:
+            e=(du-c[len(c)-1])/u
+            h=h+(e)
+            du=c[len(c)-1]
+            u=u+1
+            c.remove(c[len(c)-1])
+            if(len(c)!=0):
+                if(e*v>=(c[i]-dv)):
+                    f=(c[i]-dv)/v
+                    dv=c[i]
+                    c.remove(c[i])
+                    v=v+1
+                    if(e>f):
+                        dv=dv+(e-f)*v
+                else:
+                    dv=dv+v*e
+            else:
+                dv=dv+v*e            
+    h=h+(du-dv)/(u+v)
+    print(h)
