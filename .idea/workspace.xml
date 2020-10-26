@@ -21,6 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="25b935e0-016e-41f8-9570-95fbb8a705ac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/prince.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/prince.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/rough.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/ryuio.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/ryuio.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +61,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Meredian\dealingprobs-master\python\workspace" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.prince (2)">
+  <component name="RunManager" selected="Python.ryuio">
     <configuration name="arr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Meredian" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,27 +132,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pygamer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Meredian" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dealingprobs-master/python/int. python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Meredian\dealingprobs-master\python\int. python\pygamer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="rough" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,12 +153,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ryuio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hellishdemon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dealingprobs-master/python/workspace" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dealingprobs-master/python/workspace/ryuio.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ryuio" />
         <item itemvalue="Python.prince (2)" />
         <item itemvalue="Python.rough" />
         <item itemvalue="Python.arr" />
-        <item itemvalue="Python.important_fn" />
         <item itemvalue="Python.important_fn" />
       </list>
     </recent_temporary>
@@ -218,25 +221,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="quit the drama" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="746" height="201" key="GridCell.Tab.0.bottom" timestamp="1601617087860">
+    <state width="1364" height="210" key="GridCell.Tab.0.bottom" timestamp="1603723070469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601617087860" />
+    <state width="1364" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603723070469" />
     <state width="745" height="199" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598422027717" />
-    <state width="746" height="201" key="GridCell.Tab.0.center" timestamp="1601617087860">
+    <state width="1364" height="210" key="GridCell.Tab.0.center" timestamp="1603723070469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601617087860" />
+    <state width="1364" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603723070469" />
     <state width="745" height="199" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598422027717" />
-    <state width="746" height="201" key="GridCell.Tab.0.left" timestamp="1601617087860">
+    <state width="1364" height="210" key="GridCell.Tab.0.left" timestamp="1603723070469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601617087860" />
+    <state width="1364" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603723070468" />
     <state width="745" height="199" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598422027717" />
-    <state width="746" height="201" key="GridCell.Tab.0.right" timestamp="1601617087860">
+    <state width="1364" height="210" key="GridCell.Tab.0.right" timestamp="1603723070469">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601617087860" />
+    <state width="1364" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603723070469" />
     <state width="745" height="199" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598422027717" />
     <state width="745" height="258" key="GridCell.Tab.1.bottom" timestamp="1600710747199">
       <screen x="0" y="0" width="1536" height="824" />
@@ -258,10 +261,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="979" y="118" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600799784521" />
-    <state x="622" y="114" width="914" height="710" key="SettingsEditor" timestamp="1601466260178">
+    <state x="622" y="114" width="914" height="710" key="SettingsEditor" timestamp="1603718845924">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="622" y="114" width="914" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601466260178" />
+    <state x="622" y="114" width="914" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603718845924" />
     <state x="862" y="100" width="581" height="630" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599998597634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

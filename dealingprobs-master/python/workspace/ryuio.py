@@ -1,27 +1,16 @@
-def alphabet_splitter(text):
-    s = set()
-    for i in range(len(text)):
-        s.add(text[i:i+1])
-    return len(text)**len(s)
-
-def word_creator(text):
-    s=set ()
-    list1=[]
-    for i in range (len (text)+1):
-        for j in range (len (text)+1):
-            if (i != j):
-                s.add (text[i:j])
-    return s
-
-for i in range(int(input())):
-    text = input()
-    new_words = word_creator(text)
-    no_of_new_words = len(new_words)
-    new_words = list(new_words)
-    num =0
-    for i in range(no_of_new_words):
-        if new_words[i] =="":
-            pass
+class Calculator:
+    def power(self,a,b):
+        if a>=0 and b>=0:
+            return a**b
         else:
-            num += alphabet_splitter(new_words[i])
-    print(num%(10**9+7))
+            return "n and p should be non-negative"
+
+myCalculator=Calculator()
+T=int(input())
+for i in range(T):
+    n,p = map(int, input().split())
+    try:
+        ans=myCalculator.power(n,p)
+        print(ans)
+    except Exception as e:
+        print(e)
