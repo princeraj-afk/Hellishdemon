@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25b935e0-016e-41f8-9570-95fbb8a705ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ands/algorithms1" beforeDir="false" afterPath="$PROJECT_DIR$/ands/algorithms1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/int. python/pynotes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/int. python/pynotes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/prince.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/prince.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/rough.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/self_made_fn.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/important_fn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +56,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/dealingprobs-master/python/workspace" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
