@@ -1,0 +1,47 @@
+#read date as date not str
+df = pd.read_csv("name.csv",parse_dates=["day"])
+
+#set date as the index
+df.set_index("day",inplace=True)
+
+#pass the value that na should be replaced with
+df.fillna(0)
+new_df = df.fillba({'a':0,'b':0,'str':another str})
+
+#carryforward the previous value
+new_df = df.fillna(method="ffill")
+
+#carryforward the next value
+new_df = df.fillna(method="bfill")
+
+#carryforward the next value with maximum 1 time for a value
+new_df = df.fillna(method="bfill",limit=1)
+
+#inserting a.m between them
+new_df = df.interpolate()
+
+#inserting a.m between them considering the date also
+new_df = df.interpolate(method="time")
+
+#drop all the row having atleast 1 NA
+new_df = df.dropna()
+
+#drop all the row having all NA
+new_df = df.dropna(how=all)
+
+#drop all the row having less than 2 valid values
+new_df = df.dropna(thresh=2)
+
+#creating index with date range
+dt = pd.date_range("date1","date2")
+idx = pd.DatetimeIndex(dt)
+df = df.reindex(idx)
+
+
+
+
+
+
+
+
+

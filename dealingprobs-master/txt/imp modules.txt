@@ -12,7 +12,7 @@ itertools
 keras
 luminoth
 mahotas
-math
+maths
 matplotlib
 networkX
 nltk
