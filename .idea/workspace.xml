@@ -20,12 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25b935e0-016e-41f8-9570-95fbb8a705ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/luc 1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/aryyan.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/aryyan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/ML/ml8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/ML/ml8.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/html/chins.html" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/html/chins.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/creater.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/creater.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/greed.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/greed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/prince.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/prince.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/ryuio.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/ryuio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/txt/imp modules.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/txt/imp modules.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/txt/excel/Course involved.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/txt/excel/Course involved.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +73,7 @@
       <recent name="D:\Meredian\dealingprobs-master\python\workspace" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aryyan">
+  <component name="RunManager" selected="Python.greed">
     <configuration name="aryyan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hellishdemon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,8 +181,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aryyan" />
         <item itemvalue="Python.greed" />
+        <item itemvalue="Python.aryyan" />
         <item itemvalue="Python.ryuio" />
         <item itemvalue="Python.prince (2)" />
         <item itemvalue="Python.rough" />
@@ -223,26 +226,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="quit the drama" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="272" height="695" key="GridCell.Tab.0.bottom" timestamp="1604042898409">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="339" key="GridCell.Tab.0.bottom" timestamp="1604396966286">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="272" height="695" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604042898409" />
-    <state width="745" height="199" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1598422027717" />
-    <state width="272" height="695" key="GridCell.Tab.0.center" timestamp="1604042898409">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="339" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604396966286" />
+    <state width="1515" height="339" key="GridCell.Tab.0.center" timestamp="1604396966285">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="272" height="695" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604042898409" />
-    <state width="745" height="199" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1598422027717" />
-    <state width="272" height="695" key="GridCell.Tab.0.left" timestamp="1604042898409">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="339" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1604396966285" />
+    <state width="1515" height="339" key="GridCell.Tab.0.left" timestamp="1604396966285">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="272" height="695" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604042898409" />
-    <state width="745" height="199" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1598422027717" />
-    <state width="272" height="695" key="GridCell.Tab.0.right" timestamp="1604042898409">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="339" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1604396966285" />
+    <state width="1515" height="339" key="GridCell.Tab.0.right" timestamp="1604396966286">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="272" height="695" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604042898409" />
-    <state width="745" height="199" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1598422027717" />
+    <state width="1515" height="339" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1604396966286" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1603815239285">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
