@@ -1,9 +1,10 @@
-f= open("luc 1.txt","r",encoding="utf8")
-p = f.read()
-for i in p[:]:
-    print(i)
-    if i in list("1234567890,.:")+["\n","\r","(",")","/"]:
-        p.replace(i,"")
-k = set(p.split(" "))
-for i in k:
-    print(i)
+t=int(input())
+for i in range(t):
+    n=int(input())
+    a=list(map(int,input().split()))
+    j=n-1
+    while j>0 and a[j-1]>=a[j]:
+        j-=1
+    while j>0 and a[j-1]<=a[j]:
+        j-=1
+    print(j)

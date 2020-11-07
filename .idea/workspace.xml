@@ -20,15 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25b935e0-016e-41f8-9570-95fbb8a705ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/luc 1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Hellishdemon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hellishdemon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/ML/ml8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/ML/ml8.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/html/chins.html" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/html/chins.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/creater.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/creater.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/ML/pandas_notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/html/rough.html" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/html/rough.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/greed.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/greed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/txt/excel/Course involved.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/txt/excel/Course involved.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/luc 1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/luc 1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py-master/pandas/1_intro/Pandas_introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/py-master/pandas/1_intro/Pandas_introduction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,46 +226,51 @@
     <option name="LAST_COMMIT_MESSAGE" value="quit the drama" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="339" key="GridCell.Tab.0.bottom" timestamp="1604396966286">
+    <state width="745" height="242" key="GridCell.Tab.0.bottom" timestamp="1604561577480">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="272" height="695" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604042898409" />
-    <state width="1515" height="339" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604396966286" />
-    <state width="1515" height="339" key="GridCell.Tab.0.center" timestamp="1604396966285">
+    <state width="745" height="242" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604561577480" />
+    <state width="745" height="242" key="GridCell.Tab.0.center" timestamp="1604561577480">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="272" height="695" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604042898409" />
-    <state width="1515" height="339" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1604396966285" />
-    <state width="1515" height="339" key="GridCell.Tab.0.left" timestamp="1604396966285">
+    <state width="745" height="242" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1604561577480" />
+    <state width="745" height="242" key="GridCell.Tab.0.left" timestamp="1604561577480">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="272" height="695" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604042898409" />
-    <state width="1515" height="339" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1604396966285" />
-    <state width="1515" height="339" key="GridCell.Tab.0.right" timestamp="1604396966286">
+    <state width="745" height="242" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1604561577480" />
+    <state width="745" height="242" key="GridCell.Tab.0.right" timestamp="1604561577480">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="272" height="695" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604042898409" />
-    <state width="1515" height="339" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1604396966286" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1603815239285">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="745" height="242" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1604561577480" />
+    <state width="1515" height="276" key="GridCell.Tab.1.bottom" timestamp="1604556266102">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603815239285" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1603815239284">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="276" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604556266102" />
+    <state width="1515" height="276" key="GridCell.Tab.1.center" timestamp="1604556266102">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603815239284" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1603815239284">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="276" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1604556266102" />
+    <state width="1515" height="276" key="GridCell.Tab.1.left" timestamp="1604556266102">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603815239284" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1603815239285">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="276" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1604556266102" />
+    <state width="1515" height="276" key="GridCell.Tab.1.right" timestamp="1604556266102">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603815239285" />
-    <state x="979" y="118" key="RollbackChangesDialog" timestamp="1600799784521">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="276" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1604556266102" />
+    <state x="979" y="124" key="RollbackChangesDialog" timestamp="1604504153580">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="979" y="118" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600799784521" />
+    <state x="979" y="124" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1604504153580" />
     <state x="622" y="114" width="914" height="710" key="SettingsEditor" timestamp="1603718845924">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
