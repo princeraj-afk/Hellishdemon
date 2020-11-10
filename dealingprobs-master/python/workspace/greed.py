@@ -1,10 +1,6 @@
-t=int(input())
-for i in range(t):
-    n=int(input())
-    a=list(map(int,input().split()))
-    j=n-1
-    while j>0 and a[j-1]>=a[j]:
-        j-=1
-    while j>0 and a[j-1]<=a[j]:
-        j-=1
-    print(j)
+a = list(input())
+ans = ""
+ if a[0]==9 else pass
+for i in a:
+    ans+=str(9-int(i)) if int(i)>4 else ans+=i
+print(int(ans))

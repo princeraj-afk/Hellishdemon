@@ -1,14 +1,8 @@
-h1 {
-    color:green;
+header a {
+    font-size:30px;
+    color:teal;
 }
-h2 {
-    color:magenta;
-}
-p {
-    color: white;
-    background-color: black;
-}
-button {
-    color: red;
-    background-color: pink;
+p a #dislikes {
+    font-weight:bold;
+    color:red;
 }
