@@ -20,185 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b22368e4-8c8f-4eeb-a51f-ff83c91b175f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/12345.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/3 numbers comparison.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/4 subject division declaration.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/5 num comparision.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/5 times prince 2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/5 times prince.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Cf.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Daigonal matrix.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/H.M.Q.1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Test.1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Untitled1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Untitled132.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Untitled2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Untitled3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Untitled4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/add.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/area of circle.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/array1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/array2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/ascending order 2.0.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/ascending order.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/char 4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/char 5.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/char1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/char2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/char3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/checking no of digits.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/counter 1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/ctotal.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/dfgt.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/double dimension 2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/double dimension.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/draco.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/driving test.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/erv.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/exp2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/exp3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/exponent.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/factorial.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/hell.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/hief.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/higj.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/jbecj.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/max.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/max1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/name printing.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/new numbering.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num  6.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num 3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num 4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num 5.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num 7.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num 8.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num 9.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/numbering.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/odd number up to 80.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops5.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops6.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops7.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/pointer1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/prince.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/rough.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/rtvr.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/square of the number.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/struct.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/struct1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/struct2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/table.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/tempCodeRunnerFile.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/test.2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/test.3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/union.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/patch.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Hellishdemon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hellishdemon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/add.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/12345.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/3 numbers comparison.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/4 subject division declaration.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/5 num comparision.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/5 times prince 2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/5 times prince.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Daigonal matrix.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/H.M.Q.1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Test.1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Untitled1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Untitled132.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Untitled2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Untitled3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Untitled4.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/add.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/area of circle.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/array1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/array2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/ascending order 2.0.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/ascending order.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/char 4.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/char 5.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/char1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/char2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/char3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/checking no of digits.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/counter 1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/ctotal.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/dfgt.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/double dimension 2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/double dimension.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/driving test.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/erv.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/exp2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/exp3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/exponent.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/factorial.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/hell.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/hell.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/hief.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/higj.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/jbecj.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/max.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/max1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/name printing.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/new numbering.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num  6.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num 3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num 4.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num 5.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num 7.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num 8.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num 9.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/numbering.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/odd number up to 80.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/pointer1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/rtvr.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/square of the number.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/struct1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/struct2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/table.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/test.2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/test.3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/Cf.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/Cf.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/Project1.dev" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/Project1.layout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/cpp notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/dexter.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/draco.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/draco.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops2.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops3.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops4.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops4.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops5.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops5.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops6.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops6.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops7.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/prince.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/prince.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/rough.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/rough.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/struct.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/tempCodeRunnerFile.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/union.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/html/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/html/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/html/styles2.css" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/html/styles2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/greed.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/greed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/rough.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +50,7 @@
       <recent name="D:\Hellishdemon\dealingprobs-master\txt" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.rough">
+  <component name="RunManager" selected="Python.greed">
     <configuration name="greed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hellishdemon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -271,8 +95,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.rough" />
         <item itemvalue="Python.greed" />
+        <item itemvalue="Python.rough" />
       </list>
     </recent_temporary>
   </component>
@@ -303,22 +127,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="745" height="218" key="GridCell.Tab.0.bottom" timestamp="1605422154994">
+    <state width="744" height="218" key="GridCell.Tab.0.bottom" timestamp="1605426944845">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="745" height="218" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605422154994" />
-    <state width="745" height="218" key="GridCell.Tab.0.center" timestamp="1605422154994">
+    <state width="744" height="218" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605426944845" />
+    <state width="744" height="218" key="GridCell.Tab.0.center" timestamp="1605426944845">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="745" height="218" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605422154993" />
-    <state width="745" height="218" key="GridCell.Tab.0.left" timestamp="1605422154993">
+    <state width="744" height="218" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605426944845" />
+    <state width="744" height="218" key="GridCell.Tab.0.left" timestamp="1605426944845">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="745" height="218" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605422154993" />
-    <state width="745" height="218" key="GridCell.Tab.0.right" timestamp="1605422154994">
+    <state width="744" height="218" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605426944845" />
+    <state width="744" height="218" key="GridCell.Tab.0.right" timestamp="1605426944845">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="745" height="218" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605422154994" />
+    <state width="744" height="218" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605426944845" />
     <state x="277" y="77" key="SettingsEditor" timestamp="1605381802333">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
