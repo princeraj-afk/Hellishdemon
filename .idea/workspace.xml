@@ -19,34 +19,197 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25b935e0-016e-41f8-9570-95fbb8a705ac" name="Default Changelist" comment="">
+    <list default="true" id="b22368e4-8c8f-4eeb-a51f-ff83c91b175f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/12345.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/3 numbers comparison.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/4 subject division declaration.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/5 num comparision.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/5 times prince 2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/5 times prince.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Cf.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Daigonal matrix.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/H.M.Q.1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Test.1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Untitled1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Untitled132.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Untitled2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Untitled3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/Untitled4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/add.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/area of circle.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/array1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/array2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/ascending order 2.0.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/ascending order.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/char 4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/char 5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/char1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/char2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/char3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/checking no of digits.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/counter 1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/ctotal.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/dfgt.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/double dimension 2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/double dimension.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/draco.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/driving test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/erv.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/exp2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/exp3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/exponent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/factorial.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/hell.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/hief.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/higj.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/jbecj.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/max.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/max1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/name printing.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/new numbering.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num  6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num 3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num 4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num 5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num 7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num 8.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/num 9.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/numbering.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/odd number up to 80.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/oops7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/pointer1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/prince.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/rough.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/rtvr.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/square of the number.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/struct.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/struct1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/struct2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/table.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/tempCodeRunnerFile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/test.2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/test.3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/union.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/patch.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Hellishdemon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hellishdemon.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/aryyan.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/aryyan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/add.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/12345.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/3 numbers comparison.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/4 subject division declaration.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/5 num comparision.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/5 times prince 2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/5 times prince.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Daigonal matrix.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/H.M.Q.1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Test.1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Untitled1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Untitled132.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Untitled2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Untitled3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/Untitled4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/add.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/area of circle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/array1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/array2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/ascending order 2.0.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/ascending order.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/char 4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/char 5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/char1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/char2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/char3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/checking no of digits.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/counter 1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/ctotal.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/dfgt.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/double dimension 2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/double dimension.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/driving test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/erv.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/exp2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/exp3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/exponent.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/factorial.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/hell.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/hell.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/hief.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/higj.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/jbecj.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/max.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/max1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/name printing.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/new numbering.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num  6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num 3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num 4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num 5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num 7.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num 8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/num 9.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/numbering.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/odd number up to 80.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/pointer1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/rtvr.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/square of the number.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/struct1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/struct2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/test.2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/initiation C/test.3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/Cf.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/Cf.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/Project1.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/Project1.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/cpp notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/dexter.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/draco.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/draco.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/oops7.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/prince.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/prince.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/rough.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/rough.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/struct.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/tempCodeRunnerFile.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/c/intermediate Cpp/union.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/greed.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/greed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/rough.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Unit Test" />
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/dealingprobs-master/python/int. python/maze.py" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="showPreview" value="true" />
-  </component>
-  <component name="ProjectId" id="1gasDWOvCj79g4IWbL0aZO3maPG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="1kI5LaMxpzJN8LVx1fdu7qSvRO6" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -55,39 +218,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Meredian\dealingprobs-master\python\workspace" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Hellishdemon\dealingprobs-master\txt" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aryyan">
-    <configuration name="aryyan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hellishdemon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dealingprobs-master/python/workspace" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dealingprobs-master/python/workspace/aryyan.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.rough">
     <configuration name="greed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hellishdemon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,49 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prince (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Brrij Mohan sah\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dealingprobs-master/python/workspace" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dealingprobs-master/python/workspace/prince.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="rough" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Brrij Mohan sah\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dealingprobs-master/python/workspace" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dealingprobs-master/python/workspace/rough.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ryuio" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hellishdemon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,7 +260,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dealingprobs-master/python/workspace/ryuio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dealingprobs-master/python/workspace/rough.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,31 +271,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aryyan" />
-        <item itemvalue="Python.greed" />
-        <item itemvalue="Python.ryuio" />
-        <item itemvalue="Python.prince (2)" />
         <item itemvalue="Python.rough" />
+        <item itemvalue="Python.greed" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="25b935e0-016e-41f8-9570-95fbb8a705ac" name="Default Changelist" comment="" />
-      <created>1598363928191</created>
+      <changelist id="b22368e4-8c8f-4eeb-a51f-ff83c91b175f" name="Default Changelist" comment="" />
+      <created>1605375213511</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598363928191</updated>
+      <updated>1605375213511</updated>
     </task>
-    <task id="LOCAL-00001" summary="quit the drama">
-      <created>1599744402800</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1599744402800</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,75 +301,27 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="quit the drama" />
-    <option name="LAST_COMMIT_MESSAGE" value="quit the drama" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="185" key="GridCell.Tab.0.bottom" timestamp="1605200734387">
+    <state width="745" height="218" key="GridCell.Tab.0.bottom" timestamp="1605422154994">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="272" height="695" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604042898409" />
-    <state width="1515" height="185" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605200734387" />
-    <state width="1515" height="185" key="GridCell.Tab.0.center" timestamp="1605200734387">
+    <state width="745" height="218" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605422154994" />
+    <state width="745" height="218" key="GridCell.Tab.0.center" timestamp="1605422154994">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="272" height="695" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604042898409" />
-    <state width="1515" height="185" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605200734387" />
-    <state width="1515" height="185" key="GridCell.Tab.0.left" timestamp="1605200734387">
+    <state width="745" height="218" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605422154993" />
+    <state width="745" height="218" key="GridCell.Tab.0.left" timestamp="1605422154993">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="272" height="695" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604042898409" />
-    <state width="1515" height="185" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605200734387" />
-    <state width="1515" height="185" key="GridCell.Tab.0.right" timestamp="1605200734387">
+    <state width="745" height="218" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605422154993" />
+    <state width="745" height="218" key="GridCell.Tab.0.right" timestamp="1605422154994">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="272" height="695" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604042898409" />
-    <state width="1515" height="185" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605200734387" />
-    <state width="1515" height="276" key="GridCell.Tab.1.bottom" timestamp="1604556266102">
+    <state width="745" height="218" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605422154994" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1605381802333">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603815239285" />
-    <state width="1515" height="276" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604556266102" />
-    <state width="1515" height="276" key="GridCell.Tab.1.center" timestamp="1604556266102">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603815239284" />
-    <state width="1515" height="276" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1604556266102" />
-    <state width="1515" height="276" key="GridCell.Tab.1.left" timestamp="1604556266102">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603815239284" />
-    <state width="1515" height="276" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1604556266102" />
-    <state width="1515" height="276" key="GridCell.Tab.1.right" timestamp="1604556266102">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603815239285" />
-    <state width="1515" height="276" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1604556266102" />
-    <state x="979" y="124" key="RollbackChangesDialog" timestamp="1604504153580">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="979" y="118" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600799784521" />
-    <state x="979" y="124" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1604504153580" />
-    <state x="622" y="114" width="914" height="710" key="SettingsEditor" timestamp="1603718845924">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="622" y="114" width="914" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603718845924" />
-    <state x="862" y="100" width="581" height="630" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599998597634">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="862" y="100" width="581" height="630" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1599998597634" />
-    <state x="663" y="144" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603815226499">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="663" y="144" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1603815226499" />
-    <state x="289" y="343" width="609" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1599637240718">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="289" y="343" width="609" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1599637240718" />
-    <state x="672" y="103" width="672" height="711" key="search.everywhere.popup" timestamp="1604907470624">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="672" y="98" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601578864492" />
-    <state x="672" y="103" width="672" height="711" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1604907470624" />
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605381802333" />
   </component>
 </project>
