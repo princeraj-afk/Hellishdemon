@@ -20,8 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b22368e4-8c8f-4eeb-a51f-ff83c91b175f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/html/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/html/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dealingprobs-master/html/styles2.css" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/html/styles2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/cpp/1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/cpp/1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/cpp/add.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/add.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/cpp/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/cpp/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/cpp/tempCodeRunnerFile.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/greed.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/greed.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
