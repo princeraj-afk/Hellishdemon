@@ -4,22 +4,21 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int hexToDecimal(string a)
+int hexToDecimal(char a, int b)
 {
-    int b = a.size();
     int ans = 0;
-    int counter = 1;
-    for (int i = b - 1; i >= 0; i--)
+    int counter = pow(16, a - 1);
+    for (int i = 0; i < b; i++)
     {
-        if (a[i] >= '0' && a[i] <= '9')
+        if (a[i] >= "0" && a[i] <= "9")
         {
             ans += counter * int(a[i]);
         }
-        else if (a[i] >= 'A' && a[i] <= 'F')
+        else if (a[i] >= "A" && a[i] <= "F")
         {
-            ans += (a[i] - 'A');
+            ans += counter * (10 + int(a[i] - "A"));
         }
-        counter *= 16;
+        counter /= 16;
     }
     return ans;
 }
@@ -30,8 +29,9 @@ int main()
     freopen("input.txt", "r", stdin);
     freopen("output.txt", "w", stdout);
 #endif
-    string a;
-    cin >> a;
-    cout << hexToDecimal(a);
+    char a;
+    int b;
+    cin >> a >> b;
+    cout << hexToDecimal(a, b);
     return 0;
 }
