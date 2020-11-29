@@ -12,4 +12,15 @@ int main()
     freopen("output.txt", "w", stdout);
 #endif
 
+
+cout<<"subject " <<"\tmarks"<<"\nmathematic\t"
+
+<<90<<"\ncomputer\t"<<77<<"\nchemistry\t"<<69;
+
+
+
+	return 0;
+
+
+
 }
