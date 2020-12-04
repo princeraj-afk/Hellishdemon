@@ -1,4 +1,0 @@
-subject 	marks
-mathematic	90
-computer	77
-chemistry	69
