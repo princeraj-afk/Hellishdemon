@@ -1,15 +1,22 @@
-div {
-  width: 200px;
+
+body{
+  font-family: Roboto;
+  align-items: center;
+  background-color:cyan;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
+  
 }
 h1{
-  color: rgb(236, 70, 4);
   text-align: center;
-  text-decoration: wavy underline purple;
+  font-family: 'Dancing Script', cursive;
 }
-#name {
-  color: navy;
+p{
+  font-family: sans-serif;
 }
-input{
-  font-style: italic;
-  font-weight: 100;
+img{
+  width: 30%;
+
+  margin: 1.4%;
 }

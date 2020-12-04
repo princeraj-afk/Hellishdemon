@@ -20,11 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b22368e4-8c8f-4eeb-a51f-ff83c91b175f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/jupyter/.ipynb_checkpoints/nxt_dstroyer-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/jupyter/nxt_dstroyer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dealingprobs-master/jupyter/patch.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/html/marthon.html" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/html/marthon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/html/rough.html" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/html/rough.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/html/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/html/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/html/styles2.css" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/html/styles2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/greed.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/greed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/patch.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/patch.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dealingprobs-master/python/workspace/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/dealingprobs-master/python/workspace/rough.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/init.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,6 +166,9 @@
       <workItem from="1606647564378" duration="3188000" />
       <workItem from="1606656801974" duration="13057000" />
       <workItem from="1606799965607" duration="5284000" />
+      <workItem from="1607092089584" duration="407000" />
+      <workItem from="1607102248345" duration="2000" />
+      <workItem from="1607106748921" duration="1545000" />
     </task>
     <servers />
   </component>
@@ -186,22 +195,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="548" y="244" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1606652708554" />
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1606848057943">
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1607115350977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606848057943" />
-    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1606848057943">
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1607115350977" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1607115350977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606848057943" />
-    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1606848057943">
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1607115350977" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1607115350977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606848057943" />
-    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1606848057943">
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1607115350977" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1607115350977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606848057943" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1607115350977" />
     <state x="279" y="133" key="SettingsEditor" timestamp="1606717980151">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -216,7 +225,7 @@
     <state x="547" y="370" width="573" height="259" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" timestamp="1606652655680" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Hellishdemon$greed.coverage" NAME="greed Coverage Results" MODIFIED="1606806575733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dealingprobs-master/python/workspace" />
+    <SUITE FILE_PATH="coverage/Hellishdemon$greed.coverage" NAME="greed Coverage Results" MODIFIED="1607107521935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dealingprobs-master/python/workspace" />
     <SUITE FILE_PATH="coverage/Hellishdemon$rough.coverage" NAME="rough Coverage Results" MODIFIED="1606748618844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dealingprobs-master/python/workspace" />
     <SUITE FILE_PATH="coverage/Hellishdemon$Greed.coverage" NAME="Greed Coverage Results" MODIFIED="1606457127990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dealingprobs-master/python/workspace" />
   </component>

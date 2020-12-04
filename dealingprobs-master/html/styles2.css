@@ -1,0 +1,13 @@
+button{
+    background: none;
+    color: #ffa260;
+    border: 2px solid;
+    padding: 1em 2em;
+    font-size: 1em;
+  }
+  button:hover{
+    border-color: aqua;
+    box-shadow: 3px 3px red, -1em 0 .4em olive;
+    transform: translateY(-0.5em);
+    cursor: pointer;
+  }
