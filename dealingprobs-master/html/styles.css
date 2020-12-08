@@ -1,22 +1,2 @@
 
-body{
-  font-family: Roboto;
-  align-items: center;
-  background-color:cyan;
-  font-family: 'Dancing Script', cursive;
-  font-family: 'Lato', sans-serif;
-  font-family: 'Noto Sans JP', sans-serif;
-  
-}
-h1{
-  text-align: center;
-  font-family: 'Dancing Script', cursive;
-}
-p{
-  font-family: sans-serif;
-}
-img{
-  width: 30%;
 
-  margin: 1.4%;
-}
