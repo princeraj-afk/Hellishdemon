@@ -5,26 +5,27 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-string reverseWord(string k)
-{
-    //Your code here
-    int p;
-    p = k.length();
-    string ans = "";
-    for (int i = p - 1; i >= 0; i--)
-    {
-        ans += k[i];
-    }
-    return ans;
-}
-
 int main()
 {
 #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
     freopen("output.txt", "w", stdout);
 #endif
-    string a;
-    cin >> a;
-    cout << reverseWord(a);
+    
+    int main()
+{
+    int arr[] = { 1, 5, 8, 9, 6, 7, 3, 4, 2, 0 };
+    int n = sizeof(arr) / sizeof(arr[0]);
+ 
+    /*Here we take two parameters, the beginning of the
+    array and the length n upto which we want the array to
+    be sorted*/
+    sort(arr, arr + n);
+ 
+    cout << "\nArray after sorting using "
+            "default sort is : \n";
+    for (int i = 0; i < n; ++i)
+        cout << arr[i] << " ";
+ 
+    return 0;
 }
