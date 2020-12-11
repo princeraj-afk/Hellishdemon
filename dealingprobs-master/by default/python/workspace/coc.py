@@ -15,3 +15,6 @@ print((a[0]*level14+a[1]*level13+a[2]*level12+a[3]*level11+a[4]*level10+a[5]*lev
 # aura 593 --606
 # ghost 247 --252 --302
 # max =4200
+
+c = [3,5,5,67,6]
+c.index()

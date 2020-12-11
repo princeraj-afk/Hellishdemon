@@ -43,4 +43,37 @@ q:before, q:after {
 }
 table {
 	border-collapse: collapse;
-	border-spacing: 0; }
+    border-spacing: 0; }
+
+body{
+    background-color: #60a9ff;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+}
+html{
+    box-sizing: border-box;
+    font-family: 'Open sans', sans-serif;
+}
+.panel{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px,12px;
+    width: 100%;
+    max-width: 720px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    text-transform: uppercase;
+}
+.pricing-plan{
+    border-bottom: #e1f1ff;
+}
+.pricing-plan:last-child{
+    border-bottom: none;
+}
+.pricing-img{
+    margin-bottom: 25px; 
+    max-width: 100%;
+}

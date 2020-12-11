@@ -3,6 +3,7 @@
         "random": "cpp",
         "algorithm": "cpp",
         "xlocale": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "iostream": "cpp"
     }
 }

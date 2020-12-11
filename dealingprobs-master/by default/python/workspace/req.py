@@ -1,3 +1,4 @@
-import requests
-r = requests.get("https://financialmodelingprep.com/developer/docs/")
-print(r.text)
+a = int(input())
+b = [int(x) for x in input().split()]
+c = int(input())
+print(b.index(c))
