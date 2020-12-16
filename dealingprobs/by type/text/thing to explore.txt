@@ -1,3 +1,0 @@
-datetime convertion
-default dict from collection module
-operator"<<"

@@ -3,4 +3,5 @@ venv/
 .vscode
 py-master/
 JavaScript30/
-code_snippets/
+codeSnippets/
+logicalDevs/
