@@ -85,7 +85,7 @@ def home(request):
     context = {
         'cereals' : cereals
     }
-    return render(request,'myBin/home.html',context,{'title':'cereals'})
+    return render(request,'myBin/home.html',context)
 
 def about(request):
     return render(request,'myBin/about.html')

@@ -1,0 +1,8 @@
+div h2{
+    text-align: center;
+    padding: 1em;
+}
+div{
+    border: 10px wave #470092;
+    border-radius: 25%;
+}

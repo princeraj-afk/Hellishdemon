@@ -1,19 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends "myBin/base.html" %}
+{% block content %}
     {% for cereal in cereals %}
-        <h2>{{ cereal.name }}</h2>
-        <p>Vitamins: {{ cereal.vitamins }}</p>
-        <p>Calories: {{ cereal.calories }}</p>
-        <p>Ratings: {{ cereal.ratings }}</p>
+        <div>
+            <h2>{{ cereal.name }}</h2>
+                <p>Vitamins: {{ cereal.vitamins }}</p>
+                <p>Calories: {{ cereal.calories }}</p>
+                <p>Ratings: {{ cereal.ratings }}</p>
+        </div>
     {% endfor %}
-</body>
-</html>
-{#{% extends "myBin/base.html" %}#}
-{#{% block content %}#}
-{#    #}
-{#{% endblock content %}#}
+{% endblock content %}
