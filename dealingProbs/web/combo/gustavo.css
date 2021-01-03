@@ -1,9 +1,11 @@
 h1{
     font-family: 'Comfortaa', cursive;
     display: inline;
-    padding-right: 90%;  
-    padding-left: 10%;
-    margin-bottom:70px;  
+    padding:30px 80% 70px 20%;
+    margin-left: 2em;
+    font-size: 60px;
+    background-color:rgb(172, 236, 255);
+    border-bottom: 80px aquamarine;
 }
 h2{
     font-weight: 700;

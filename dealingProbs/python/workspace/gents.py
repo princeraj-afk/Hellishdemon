@@ -1,6 +1,9 @@
-a = int(input())
-arr = []
-for i in range (a):
-    arr.append(input())
-arr.sort()
-print(arr)
+# import socket
+#
+# mysock = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+# mysock.connect(('data.pr4e.org',80))
+import requests
+import json
+
+file = requests.get("http://data.pr4e.org/authors.txt")
+print(file.text)

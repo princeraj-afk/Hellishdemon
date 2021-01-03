@@ -1,11 +1,19 @@
 {% extends "myBin/base.html" %}
 {% block content %}
     {% for cereal in cereals %}
-        <div>
-            <h2>{{ cereal.name }}</h2>
-                <p>Vitamins: {{ cereal.vitamins }}</p>
-                <p>Calories: {{ cereal.calories }}</p>
-                <p>Ratings: {{ cereal.ratings }}</p>
-        </div>
+        <article class="media content-section">
+          <div class="media-body">
+            <div class="article-metadata">
+              <a class="mr-2" href="#"> Prince Raj</a>
+{#              <small class="text-muted">{{ cereal.ratings }}</small>#}
+            </div>
+            <h4><p class="article-title">{{ cereal.name }}</p></h4>
+            <p class="article-content">
+                Calories:{{ cereal.calories }}<br>
+                Vitamins:{{ cereal.vitamins }}<br>
+                Ratings :{{ cereal.ratings }}
+            </p>
+          </div>
+        </article>
     {% endfor %}
 {% endblock content %}
