@@ -1,5 +1,6 @@
-import os
-os.chdir("D:\jtest")
+import pyqrcode
+import png
 
-for i in os.listdir("D:\jtest"):
-    os.rename(i,i[4:])
+q = pyqrcode.create(input())
+q.png('name.png',scale=6)
+print('Qrcode generated')
