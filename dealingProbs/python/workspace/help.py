@@ -1,9 +1,14 @@
-import os
-os.chdir("E:\ReactJS_Tutorial_for_Beginners")
-t = set()
-for i in os.listdir():
-    t.add(int(i[:2]))
-#
-print(set(range(1,78)).difference(t))
-# print(set(range(1,78)))
-# print(t)
+a , b = [int(x) for x in input().split()]
+lol = []
+for _ in range(a):
+    lol.append(list(input()))
+
+for i in range(a):
+    for j in range(b):
+        if lol[i][j] == ".":
+            if (i + j) % 2 == 0:
+                lol[i][j]='B'
+            else:
+                lol[i][j]='W'
+for i in range(a):
+    print("".join(lol[i]))
