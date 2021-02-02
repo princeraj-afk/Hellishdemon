@@ -12,14 +12,12 @@ import { render } from 'react-dom';
 //     </div>
 //   );
 // }
-class App extends Component {
-  render() {
-    return (
-      <div className='App'>
-        <greet />
-        <
-        
-        ././div>);
-  }
-}  ?)()
+// class App extends Component {
+//   render() {
+//     return (
+//       <div className='App'>
+//         <greet />
+//       <div>);
+//   }
+// }
 export default App;

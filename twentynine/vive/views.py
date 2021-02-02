@@ -10,7 +10,10 @@ tweet=[
      'city':'Muzzafarpur'},
     {'name':'Mohak',
      'age':19,
-     'city':'Rohtas'}
+     'city':'Rohtas'},
+    {'name':'Umang Niranjan',
+     'age':21,
+     'city':'Jhanshi'}
 ]
 
 def home(request):
