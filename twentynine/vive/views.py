@@ -1,6 +1,24 @@
 from django.shortcuts import render
-from django.http import HttpResponse
 # Create your views here.
 
+tweet=[
+    {'name':'Prince Raj',
+     'age':20,
+     'city':'Madhubani'},
+    {'name':'Shashank',
+     'age':21,
+     'city':'Muzzafarpur'},
+    {'name':'Mohak',
+     'age':19,
+     'city':'Rohtas'}
+]
+
 def home(request):
-    return HttpResponse('<h1>home to vives<h1/>')
+    context={
+        'posts':tweet,
+        'title':'Home'
+    }
+    return render(request,'vive/home.html',context)
+
+def about(request):
+    return render(request,'vive/about.html',{'title':'About'})
