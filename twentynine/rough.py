@@ -5,8 +5,3 @@ with open("rough.txt","r") as f:
         q = set(list(b))
         r = p.difference(q)
         print(len(p),len(q),len(r))
-        # if set(list(a)).difference(set(list(b))):
-        #     print("Love you too")
-        # else:
-        # break
-    #     print(f.readline())
