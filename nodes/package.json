@@ -1,0 +1,18 @@
+{
+  "name": "nodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "figlet": "^1.5.0",
+    "give-me-a-joke": "^0.4.0",
+    "langs": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prince",
+  "license": "ISC"
+}
