@@ -3,3 +3,4 @@ venv/
 .vscode
 forked/
 demigods/
+nodes/package.json

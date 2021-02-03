@@ -1,7 +1,4 @@
-with open("rough.txt","r") as f:
-    for _ in range(int(f.readline())):
-        a,b = f.readline().split()
-        p = set(list(a))
-        q = set(list(b))
-        r = p.difference(q)
-        print(len(p),len(q),len(r))
+print(3|2)
+print(bin(3),bin(2),bin(1))
+print(bin(1),bin(2),bin(3))
+print(bin(4),bin(2),bin(6))

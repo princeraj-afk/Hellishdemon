@@ -1,12 +1,12 @@
 {% extends "vive/base.html" %}
 
 {% block content %}
-        <article class="container">
+        <div class="container">
         {% for post in posts %}
             <div class="box">
             <p>The guy in front of you is <b>{{ post.name }}</b>.</p>
             <p>Spent {{ post.age }} years on Earth and was delivered in <i>{{ post.city }}</i>.</p>
             </div>
         {% endfor %}
-        </article>
+        </div>
 {% endblock %}
