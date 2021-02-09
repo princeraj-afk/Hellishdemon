@@ -8,10 +8,12 @@ typedef long long ll;
 #include <list>
 #include <map>
 
-int n;
-bool prime(n){
+bool prime(int n)
+{
     if (n == 1)
+    {
         return false;
+    }
     for (int i = 2; i < n; i++)
     {
         if (n % i == 0)
@@ -19,10 +21,9 @@ bool prime(n){
     }
     return true;
 }
-
-bool square(n)
+bool square(int n)
 {
-    if ((n * *0.5) % 1 == 0)
+    if (pow(sqrt(n), 2) == n)
     {
         return true;
     }
@@ -34,23 +35,19 @@ bool square(n)
 
 int main()
 {
-#ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-#endif
-    // int n;
-    // cin >> n;
-    // int p;
-    // for (int i = 0; i < n; i++)
-    // {
-    //     cin >> p;
-    //     if (square(p) and prime(p * *0.5))
-    //         cout << "YES";
-    //     else
-    //         cout << "NO";
-    // }
-    cout << prime(5);
-    cout << prime(15);
-    cout << square(3);
-    cout << square(9);
+    // #ifndef ONLINE_JUDGE
+    //     freopen("input.txt", "r", stdin);
+    //     freopen("output.txt", "w", stdout);
+    // #endif
+    int n;
+    cin >> n;
+    int p;
+    for (int i = 0; i < n; i++)
+    {
+        cin >> p;
+        if (square(p) && prime(sqrt(p)))
+            cout << "YES\n";
+        else
+            cout << "NO\n";
+    }
 }
