@@ -1,53 +1,34 @@
 #include <iostream>
 #include <string>
-// #include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 #include <algorithm>
 typedef long long ll;
 #include <cmath>
 #include <list>
 #include <map>
-
-bool prime(int n)
-{
-    if (n == 1)
-    {
-        return false;
-    }
-    for (int i = 2; i < n; i++)
-    {
-        if (n % i == 0)
-            return false;
-    }
-    return true;
-}
-bool square(int n)
-{
-    if (pow(sqrt(n), 2) == n)
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
-}
+#include <set>
 
 int main()
 {
-    // #ifndef ONLINE_JUDGE
-    //     freopen("input.txt", "r", stdin);
-    //     freopen("output.txt", "w", stdout);
-    // #endif
+#ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+#endif
     int n;
     cin >> n;
-    int p;
-    for (int i = 0; i < n; i++)
+    set<int, greater<int>> s;
+    while (n--)
     {
-        cin >> p;
-        if (square(p) && prime(sqrt(p)))
-            cout << "YES\n";
-        else
-            cout << "NO\n";
+        int x1, y1, x2, y2;
+        cin >> x1 >> y1 >> x2 >> y2;
+        for (int i = x1; i < x2; i++)
+        {
+            for (int j = y1; j < y2; j++)
+            {
+                s.insert((i, j));
+            }
+        }
     }
+    cout << s.size();
 }
