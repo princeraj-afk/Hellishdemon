@@ -1,10 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
-</head>
-<body>
-$END$
-</body>
-</html>
+{% extends "vive/base.html" %}
+{% load crispy_forms_tags %}
+{% block content %}
+    <div class="container content-section" style="padding:20px;line-height:1.8;">
+        <form method="POST">
+            {% csrf_token %}
+            <fieldset class="form-group">
+                <legend class="border-box-sizing"> <b>Log IN</b></legend>
+                {{ form|crispy }}
+            </fieldset>
+            <div class="field">
+            <p class="control text-muted">
+                <button class="button is-success is-small">
+                LOG IN
+                </button>
+            </p>
+        </div>
+        </form>
+        <footer class="card-footer field content" style="padding-top: 1em;">
+            <p class="control text-muted">Need an account?
+                <button class="button is-small">
+                <a href="register.html">Sign UP</a>
+                </button>
+            </p>
+        </footer>
+    </div>
+{%  endblock content %}

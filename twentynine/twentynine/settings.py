@@ -33,6 +33,8 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'vive.apps.ViveConfig',
     'users.apps.UsersConfig',
+    'crispy_forms',
+    'django_crispy_bulma',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -120,3 +122,15 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+CRISPY_ALLOWED_TEMPLATE_PACKS = (
+    "bootstrap",
+    "uni_form",
+    "bootstrap3",
+    "bootstrap4",
+    "bulma",
+)
+
+CRISPY_TEMPLATE_PACK = "bulma"
+
+LOGIN_REDIRECT_URL = 'vive-home'
