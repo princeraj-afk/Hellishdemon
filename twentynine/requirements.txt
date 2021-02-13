@@ -9,7 +9,7 @@ Babel==2.8.0
 backcall==0.2.0
 beautifulsoup4==4.9.3
 beautifultable==1.0.0
-bleach==3.2.1
+bleach==3.3.0
 bokeh==2.2.3
 branca==0.4.1
 cachelib==0.1
