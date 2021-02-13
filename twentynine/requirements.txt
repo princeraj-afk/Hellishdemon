@@ -86,7 +86,7 @@ nbformat==5.0.8
 nest-asyncio==1.4.2
 nnfs==0.5.1
 nodeenv==1.5.0
-notebook==6.1.4
+notebook==6.1.5
 numpy==1.19.3
 packaging==20.4
 pandas==1.1.5
