@@ -2,10 +2,11 @@
 
 {% block content %}
         <div class="container">
-        {% for post in posts %}
+        {% for friend in friends %}
             <div class="box">
-            <p>The guy in front of you is <b>{{ post.name }}</b>.</p>
-            <p>Spent {{ post.age }} years on Earth and was delivered in <i>{{ post.city }}</i>.</p>
+            <p>The guy in front of you is <b>{{ friend.name }}</b>.</p>
+            <p>Spent {{ friend.age }} years on Earth and was delivered in <i>{{ friend.city }}</i>.</p>
+            <p>Added to the server on {{ friend.date_posted|date:"F d, Y" }}</p>
             </div>
         {% endfor %}
         </div>

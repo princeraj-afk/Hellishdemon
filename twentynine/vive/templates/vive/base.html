@@ -1,5 +1,4 @@
 {% load static %}
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +6,7 @@
     {% if title %}
         <title>{{ title }}</title>
     {% else %}
-        <title>Django-vive</title>
+        <title>Vive</title>
     {% endif %}
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
     <link rel="stylesheet" href="{% static 'vive/main.css' %}">
@@ -40,6 +39,13 @@
       </div>
     </div>
     </nav>
+    {% if messages %}
+        {% for message in messages %}
+            <div class="notification is-success">
+                {{ message }}
+            </div>
+        {% endfor %}
+    {% endif %}
     {% block content %}
     
     {% endblock %}

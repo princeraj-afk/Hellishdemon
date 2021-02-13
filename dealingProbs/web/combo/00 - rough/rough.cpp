@@ -2,10 +2,10 @@
 #include <string>
 #include <bits/stdc++.h>
 using namespace std;
-#include <algorithm>
-typedef long long ll;
-#include <cmath>
-#include <list>
+// #include <algorithm>
+// typedef long long ll;
+// #include <cmath>
+// #include <list>
 
 int main()
 {
@@ -13,27 +13,16 @@ int main()
     freopen("input.txt", "r", stdin);
     freopen("output.txt", "w", stdout);
 #endif
-    ios_base::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    int a, b;
-    cin >> a >> b;
-    for (int i = 0; i < a; i++)
+    int n, q, k;
+    scanf("%d%d%d", &n, &q, &k);
+    int a[n];
+    for (int i = 0; i < n; i++)
+        scanf("%d", &a[i]);
+    for (int i = 0; i < q; i++)
     {
-        for (int j = 0; j < b; j++)
-        {
-            char s;
-            cin >> s;
-            if (s == '.')
-            {
-                if ((i + j) % 2 == 0)
-                    cout << "B";
-                else
-                    cout << "W";
-            }
-            else
-                cout << s;
-        }
-        cout << endl;
+        int l, r;
+        scanf("%d%d", &l, &r);
+        int le = r - l + 1;
+        cout << (2 * (k - le) - (a[l - 1] - 1) - (k - a[r - 1])) << endl;
     }
 }

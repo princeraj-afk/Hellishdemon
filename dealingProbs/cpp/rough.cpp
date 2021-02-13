@@ -8,6 +8,8 @@ typedef long long ll;
 #include <list>
 #include <map>
 #include <set>
+#include <iterator>
+#include <tuple>
 
 int main()
 {
@@ -17,7 +19,7 @@ int main()
 #endif
     int n;
     cin >> n;
-    set<int, greater<int>> s;
+    set<int, int> s;
     while (n--)
     {
         int x1, y1, x2, y2;
@@ -26,7 +28,8 @@ int main()
         {
             for (int j = y1; j < y2; j++)
             {
-                s.insert((i, j));
+                tuple<int, int> tu(i, j);
+                s.insert(tu);
             }
         }
     }

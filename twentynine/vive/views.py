@@ -1,24 +1,11 @@
 from django.shortcuts import render
-# Create your views here.
+from .models import Friend
 
-tweet=[
-    {'name':'Prince Raj',
-     'age':20,
-     'city':'Madhubani'},
-    {'name':'Shashank',
-     'age':21,
-     'city':'Muzzafarpur'},
-    {'name':'Mohak',
-     'age':19,
-     'city':'Rohtas'},
-    {'name':'Umang Niranjan',
-     'age':21,
-     'city':'Jhanshi'}
-]
+
 
 def home(request):
     context={
-        'posts':tweet,
+        'friends':Friend.objects.all(),
         'title':'Home'
     }
     return render(request,'vive/home.html',context)
