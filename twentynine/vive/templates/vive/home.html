@@ -1,8 +1,10 @@
 {% extends "vive/base.html" %}
 
 {% block content %}
+{#        <div class="container" style="background-color: #E88C5D">#}
         <div class="container">
         {% for friend in friends %}
+{#            <div class="box" style="background-color: #9F97FA">#}
             <div class="box">
             <p>The guy in front of you is <b>{{ friend.name }}</b>.</p>
             <p>Spent {{ friend.age }} years on Earth and was delivered in <i>{{ friend.city }}</i>.</p>
