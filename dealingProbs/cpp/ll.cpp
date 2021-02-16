@@ -1,16 +1,3 @@
-#include <iostream>
-#include <string>
-#include <bits/stdc++.h>
-using namespace std;
-#include <algorithm>
-typedef long long ll;
-#include <cmath>
-#include <list>
-#include <map>
-#include <set>
-#include <iterator>
-#include <tuple>
-
 class node
 {
 public:
@@ -23,6 +10,7 @@ public:
         next = NULL;
     }
 };
+
 void insertAtTail(node *&head, int val)
 {
     node *n = new node(val);
@@ -84,36 +72,4 @@ void deletion(node *head, int val)
     node *toDelete = temp->next;
     temp->next = temp->next->next;
     delete toDelete;
-}
-node *reverse(node *&head)
-{
-    node *currentptr = head;
-    node *previousptr = NULL;
-    node *nextptr;
-
-    while (currentptr != NULL)
-    {
-        nextptr = currentptr->next;
-        currentptr->next = previousptr;
-
-        previousptr = currentptr;
-        currentptr = nextptr;
-    }
-    return previousptr;
-}
-
-int main()
-{
-#ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-#endif
-    node *head = NULL;
-    insertAtTail(head, 1);
-    insertAtTail(head, 2);
-    insertAtHead(head, 4);
-    insertAtHead(head, 5);
-    display(head);
-    head = reverse(head);
-    display(head);
 }
