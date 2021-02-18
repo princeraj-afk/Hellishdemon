@@ -1,7 +1,6 @@
 from django.shortcuts import render
 from .models import Friend
-
-
+from django.views.generic import ListView
 
 def home(request):
     context={
@@ -12,3 +11,9 @@ def home(request):
 
 def about(request):
     return render(request,'vive/about.html',{'title':'About'})
+
+class FriendListView(ListView):
+    model = Friend
+    template_name = 'vive/home.html'
+    context_object_name = 'friends'
+    ordering = ['-date_posted']
