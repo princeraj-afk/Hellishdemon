@@ -4,6 +4,6 @@ venv/
 forked/
 demigods/
 nodes/package.json
-dealingProbs/python/ML
-dealingProbs/python/MIT progs
-dealingProbs/python/google-python-exercises
+dealingProbs/python/ML/
+dealingProbs/python/MIT progs/
+dealingProbs/python/google-python-exercises/
