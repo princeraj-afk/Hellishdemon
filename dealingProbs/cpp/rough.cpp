@@ -11,109 +11,50 @@ typedef long long ll;
 #include <iterator>
 #include <tuple>
 
-class node
-{
-public:
-    int data;
-    node *next;
-
-    node(int val)
-    {
-        data = val;
-        next = NULL;
-    }
-};
-void insertAtTail(node *&head, int val)
-{
-    node *n = new node(val);
-
-    if (!head)
-    {
-        head = n;
-        return;
-    }
-    node *temp = head;
-    while (temp->next != NULL)
-    {
-        temp = temp->next;
-    }
-    temp->next = n;
-}
-
-void insertAtHead(node *&head, int val)
-{
-    node *n = new node(val);
-    n->next = head;
-    head = n;
-}
-void deleteAtHead(node *&head)
-{
-    node *todelete = head;
-    head = head->next;
-    delete todelete;
-}
-void display(node *head)
-{
-    node *temp = head;
-    while (temp != NULL)
-    {
-        cout << temp->data << "->";
-        temp = temp->next;
-    }
-    cout << "NULL" << endl;
-}
-
-bool search(node *head, int key)
-{
-    node *temp = head;
-    while (temp != NULL)
-    {
-        if (temp->data == key)
-            return true;
-        temp = temp->next;
-    }
-    return false;
-}
-void deletion(node *head, int val)
-{
-    node *temp = head;
-    while (temp->next->data != val)
-    {
-        temp = temp->next;
-    }
-    node *toDelete = temp->next;
-    temp->next = temp->next->next;
-    delete toDelete;
-}
-node *reverse(node *&head)
-{
-    node *currentptr = head;
-    node *previousptr = NULL;
-    node *nextptr;
-
-    while (currentptr != NULL)
-    {
-        nextptr = currentptr->next;
-        currentptr->next = previousptr;
-
-        previousptr = currentptr;
-        currentptr = nextptr;
-    }
-    return previousptr;
-}
-
 int main()
 {
 #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
     freopen("output.txt", "w", stdout);
 #endif
-    node *head = NULL;
-    insertAtTail(head, 1);
-    insertAtTail(head, 2);
-    insertAtHead(head, 4);
-    insertAtHead(head, 5);
-    display(head);
-    head = reverse(head);
-    display(head);
+    int n;
+    cin >> n;
+    while (n--)
+    {
+        int a;
+        cin >> a;
+        int t1[a], t2[a], mn_x = INT32_MAX, mn_y = INT32_MAX, mx_x = INT32_MIN, mx_y = INT32_MIN;
+        for (int i = 0; i < a; i++)
+        {
+            int x, y;
+            cin >> x >> y;
+            if (x < mn_x)
+                mn_x = x;
+            if (y < mn_y)
+                mn_y = y;
+            if (mx_x < x)
+                mx_x = x;
+            if (mx_y < y)
+                mx_y = y;
+            t1[i] = x;
+            t2[i] = y;
+        }
+        int g = INT32_MAX;
+        int ans = 0;
+        for (int i = mn_x; i <= mx_x; i++)
+            for (int j = mn_y; j <= mx_y; j++)
+            {
+                int z = 0;
+                for (int k = 0; k < a; k++)
+                    z += abs(i - t1[k]) + abs(j - t2[k]);
+                if (z < g)
+                {
+                    g = z;
+                    ans = 1;
+                }
+                else if(z==g)
+                    ans++;
+            }
+        cout <<ans << endl;
+    }
 }
